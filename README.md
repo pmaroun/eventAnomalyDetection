@@ -1,2 +1,2 @@
-# eventAnomolyDetection
-ETW Event Anomoly Detection
+# eventAnomalyDetection
+ETW Event Anomaly Detection
